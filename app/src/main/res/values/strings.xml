@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI Emergency Companion</string>
+    <string name="emergency_title">AI Emergency Companion</string>
+    <string name="tap_to_record">Tap to Record</string>
+    <string name="recording">Recording...</string>
+    <string name="analyzing">Analyzing...</string>
+    <string name="emergency_sms">Emergency SMS</string>
+    <string name="new_emergency">New Emergency</string>
+</resources>
