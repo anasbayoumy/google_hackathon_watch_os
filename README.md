@@ -83,8 +83,7 @@ SmsResultScreen()        // Emergency SMS display (planned)
 - `WRITE_EXTERNAL_STORAGE`: Audio file storage
 - `WAKE_LOCK`: Keep watch awake during emergency
 
-## 🔄 Communication Flow (Planned)
-
+## 🔄 Communication Flow 
 ```
 Watch App → Data Layer API → Phone App → AI Processing → SMS Generation → Watch Display
 ```
